@@ -14,3 +14,7 @@ committed into a repository however you are able to reset files
 you don't want to be committed/tracked. It is valuable because
 sometimes you might accidentally add a file you don't want and 
 will need to remove it.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+The staging area shows what files are tracked and what aren't. You can also use git diff, git diff --staged and git diff <commit 1> <commit 2> to compare changes you've made in a file(s) before you actually make new commit.
