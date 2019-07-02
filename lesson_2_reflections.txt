@@ -18,3 +18,10 @@ will need to remove it.
 How can you use the staging area to make sure you have one commit per logical change?
 
 The staging area shows what files are tracked and what aren't. You can also use git diff, git diff --staged and git diff <commit 1> <commit 2> to compare changes you've made in a file(s) before you actually make new commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A situation where branches would be help, is when you want
+to add a new feature into a game but you're not sure if it
+will work out. Therefore you create another branch called experimental, then make commits in that branch in relation
+to the new feature. The master branch stays the same.
