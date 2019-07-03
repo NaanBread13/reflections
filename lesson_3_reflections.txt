@@ -16,3 +16,8 @@ want to have the respository on github in your own computer.
 Forks are used when you want your own version of someone
 else's repository and want to make changes without affecting
 their own version of the same repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+So if something goes wrong with the latest version of the remote, you can be assured that
+there is a working version with the local copy.
