@@ -7,3 +7,12 @@ Why might you want to always pull changes manually rather than having Git automa
 
 You might want to experiment with only one/a few changes that are in the remote repository with your local version
 and decide whether they're worth using
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Branches can be used for testing out a experimental feature
+before putting it in the master branch. Cloning is when you
+want to have the respository on github in your own computer.
+Forks are used when you want your own version of someone
+else's repository and want to make changes without affecting
+their own version of the same repository.
